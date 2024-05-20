@@ -1,0 +1,4 @@
+flet
+spotdl
+pillow
+ffmpeg
