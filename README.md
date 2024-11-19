@@ -1,7 +1,3 @@
-Claro! Aqui está o README atualizado com badges e emojis para deixar o documento mais atraente:
-
----
-
 # 🎵 Spotiplay
 
 ![Python Version](https://img.shields.io/badge/Python-3.7%2B-blue)
@@ -34,8 +30,8 @@ Spotiplay é uma aplicação que permite baixar músicas do Spotify e reproduzi-
 
 1. Clone este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/spotiplay.git
-   cd spotiplay
+   git clone https://github.com/Alisonsantos77/Player_downloader.git
+   cd Player_downloader
    ```
 
 2. Instale as dependências:
@@ -52,7 +48,7 @@ Spotiplay é uma aplicação que permite baixar músicas do Spotify e reproduzi-
 
 1. Execute a aplicação:
    ```bash
-   python main.py
+   flet run main.py
    ```
 
 2. A interface da aplicação será aberta. Utilize os botões de controle para reproduzir músicas ou baixar novas músicas do Spotify.
@@ -85,5 +81,3 @@ Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou enviar
 ## 📄 Licença
 
 Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
